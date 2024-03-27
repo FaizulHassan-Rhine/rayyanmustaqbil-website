@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                     <Router >
+                     {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
 
             {/* META TAG AND META TITTLE */}
 
@@ -322,7 +322,7 @@ Social media has become a new world for everyone. As a result, businesses must d
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayan Mustaqbil</p>
         </div>
     );
 

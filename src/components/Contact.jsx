@@ -152,7 +152,7 @@ function sendEmail(e) {
 }
 
 function whatis() {
-  document.getElementById("hello").innerHTML = p;
+  // document.getElementById("hello").innerHTML = p;
 }
 $(document).ready(function () {
   whatis();

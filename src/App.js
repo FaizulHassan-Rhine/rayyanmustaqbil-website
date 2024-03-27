@@ -57,18 +57,15 @@ function App() {
           <Route path="/footer" element={ <Footer />} />
           <Route
             path="/5-important-photography-tips-for-beginners"
-            exact
-            component={() => <Postphotography />}
+            element={ <Postphotography />}
           />
           <Route
             path="/types-of-photography-which-one-drive-your-inner-passion-most"
-            exact
-            component={() => <Typesofphoto />}
+            element={ <Typesofphoto />}
           />
           <Route
             path="/7-creative-winter-marketing-ideas-for-e-commerce-businesses"
-            exact
-            component={() => <Wintermarketing />}
+            element={ <Wintermarketing />}
           />
           <Route
             path="/our-integration"
@@ -76,137 +73,111 @@ function App() {
           />
           <Route
             path="/easy-product-photography-solutions-for-small-business"
-            exact
-            component={() => <Easyproductphoto />}
+            element={<Easyproductphoto />}
           />
           <Route
             path="/top-shopify-marketing-strategy-for-sellers"
-            exact
-            component={() => <Topshopify />}
+            element={ <Topshopify />}
           />
           <Route
             path="/5-interesting-video-editing-facts"
-            exact
-            component={() => <Videoediting />}
+            element={ <Videoediting />}
           />
           <Route
             path="/minimize-your-bounce-rate"
-            exact
-            component={() => <Minimizebounce />}
+            element={ <Minimizebounce />}
           />
           <Route
             path="/how-to-make-a-softbox-for-product-photography"
-            exact
-            component={() => <Softbox />}
+            element={ <Softbox />}
           />
           <Route
             path="/terms-and-conditions"
-            exact
-            component={() => <Termsconditions />}
+            element={ <Termsconditions />}
           />
           <Route
             path="/privacy-policy"
-            exact
-            component={() => <Privacypolicy />}
+            element={ <Privacypolicy />}
           />
           <Route
             path="/top-new-year-resolution-for-your-online-store"
-            exact
-            component={() => <Newyear />}
+            element={ <Newyear />}
           />
           <Route
             path="/product-photography-how-to-take-photos-for-your-e-commerce-business"
-            exact
-            component={() => <Productphotography />}
+            element={ <Productphotography />}
           />
           <Route
             path="/a-beginners-how-to-guide-for-clothing-photography"
-            exact
-            component={() => <ClothingPhoto />}
+            element={ <ClothingPhoto />}
           />
           <Route
             path="/car-photography-a-beginners-how-to-guide-and-tips"
-            exact
-            component={() => <CarPhoto />}
+            element={ <CarPhoto />}
           />
           <Route
             path="/product-reselling-photography-why-and-how-to-do-it"
-            exact
-            component={() => <ProductReselling />}
+            element={ <ProductReselling />}
           />
           <Route
             path="/top-8-food-photography-tips-for-beginners"
-            exact
-            component={() => <FoodPhoto />}
+            element={ <FoodPhoto />}
           />
           <Route
             path="/influencer-marketing-how-to-find-the-right-one"
-            exact
-            component={() => <InfluenceMarketing />}
+            element={<InfluenceMarketing />}
           />
-          <Route path="/thank-you/*" exact component={() => <Thankyou />} />
-          <Route path="/all-blogs" exact component={() => <AllBlogs />} />
+          <Route path="/thank-you/*" element={<Thankyou />} />
+          <Route path="/all-blogs" element={ <AllBlogs />} />
           <Route
             path="/how-to-turn-your-e-commerce-business-into-a-brand"
-            exact
-            component={() => <EcomToBrand />}
+            element={ <EcomToBrand />}
           />
           <Route
             path="/artificial-intelligence-is-used-in-image-editing"
-            exact
-            component={() => <ArtInteli />}
+            element={ <ArtInteli />}
           />
           <Route
             path="/an-introduction-to-amazon-image-guidelines"
-            exact
-            component={() => <AmazonImage />}
+            element={ <AmazonImage />}
           />
           <Route
             path="/photography-style-guide"
-            exact
-            component={() => <PhotoStyle />}
+            element={ <PhotoStyle />}
           />
           <Route
             path="/photography-style-guide2"
-            exact
-            component={() => <PhotoStyle2 />}
+            element={ <PhotoStyle2 />}
           />
           <Route
             path="/why-post-production-services-are-important-for-e-commerce-businesses"
-            exact
-            component={() => <PostProduction />}
+            element={ <PostProduction />}
           />
           <Route
             path="/why-you-should-outsource-your-image-editing"
-            exact
-            component={() => <OutsourcePhoto />}
+            element={ <OutsourcePhoto />}
           />
           <Route
             path="/srgb-colorspace-the-journey-from-introduction-to-importance"
-            exact
-            component={() => <SrgbColorspace />}
+            element={ <SrgbColorspace />}
           />
           <Route
             path="/tips-for-reducing-bounce-rate-and-increasing-conversion"
-            exact
-            component={() => <ReducingBounce />}
+            element={<ReducingBounce />}
           />
           <Route
             path="/why-is-graphic-design-important-for-e-commerce-business"
-            exact
-            component={() => <GraphicsDesign />}
+            element={<GraphicsDesign />}
           />
           <Route
             path="/importance-of-creative-image-editing-for-product-photos"
-            exact
-            component={() => <CreativeImageEdit />}
+            element={ <CreativeImageEdit />}
           />
           <Route
             path="/5-interesting-photo-editing-facts"
-            exact
-            component={() => <PhotoFact />}
+            element={ <PhotoFact />}
           />
-          <Route path="" exact component={NotFound} />
+          <Route path="" element={<NotFound/>} />
         </Routes>
         {/* <Footer/> */}
       </div>

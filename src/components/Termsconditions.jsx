@@ -19,9 +19,9 @@ function Termsconditions(props) {
 
   return (
     <div className="terms">
-      <Router>
+      {/* <Router>
         <Navigation />
-      </Router>
+      </Router> */}
       {/* <p> {a} <br/>
                
                {mArr[3]} <br/> </p>
@@ -258,7 +258,7 @@ function Termsconditions(props) {
           target="_blank"
           style={{ textDecoration: "none", color: "white" }}
         >
-          Rayan Mustaqbil
+          Rayyan Mustaqbil
         </Link>
       </p>
     </div>

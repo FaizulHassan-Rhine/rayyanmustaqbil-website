@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                     <Router >
+                     {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
 
             {/* META TAG AND META TITTLE */}
 

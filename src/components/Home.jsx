@@ -2418,7 +2418,7 @@ function Home(props) {
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             width: "100vw",
-            height: "134vh",
+            height: "104vh",
           }}
         >
           <div class="row" id="hidecol3">
@@ -2427,7 +2427,7 @@ function Home(props) {
               <img
                 src="assets/images/We are here illustration.png"
                 id="cont-pic"
-                style={{ marginTop: "31%" }}
+                style={{ marginTop: "20%" }}
                 class="rounded mx-auto d-block"
                 width="70%"
                 height="70%"
@@ -2923,15 +2923,15 @@ function Home(props) {
                     AmazonSPN{" "}
                   </a>
                   <br />
-                  <a
+                  {/* <a
                     href="https://app.cutoutwiz.com"
                     target="_blank"
                     style={{ textDecoration: "none", color: "#01302b" }}
                   >
                     {" "}
                     Cutoutwiz
-                  </a>
-                  <br />
+                  </a> */}
+                  {/* <br /> */}
                   <a
                     href="https://www.bigcommerce.com/apps/cutoutwiz"
                     target="_blank"
@@ -3009,6 +3009,7 @@ function Home(props) {
                 P.O. Box 19023
                 <br />
                 <b> Dubai, United Arab Emirates</b>
+                <br/>
                 <a
                   href="https://www.facebook.com/rayyanmustaqbil"
                   target="_blank"

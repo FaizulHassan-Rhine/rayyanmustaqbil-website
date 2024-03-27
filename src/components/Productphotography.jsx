@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                                      <Router >
+                                      {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
                <Helmet>
                 <title>Product Photography: How to take photos for your E-commerce Business | cutoutwiz</title>
                 <meta name="description" keywords= "Product Photography" content="Creative product photography requires you have a suitable device, background, lights, removing backgrounds and photography retouching. " 

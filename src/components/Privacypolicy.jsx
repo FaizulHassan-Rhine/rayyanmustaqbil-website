@@ -7,9 +7,9 @@ import { Navigation } from "./";
 function Privacypolicy(props) {
   return (
     <div className="privacy">
-      <Router>
+      {/* <Router>
         <Navigation />
-      </Router>
+      </Router> */}
       <div class="container">
         <div class="row" style={{ marginTop: "9%" }}>
           <img
@@ -187,7 +187,7 @@ function Privacypolicy(props) {
           target="_blank"
           style={{ textDecoration: "none", color: "white" }}
         >
-          Rayan Mustaqbil
+          Rayyan Mustaqbil
         </Link>
       </p>
     </div>
