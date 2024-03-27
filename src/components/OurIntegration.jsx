@@ -504,15 +504,19 @@ function Ourintegration() {
               </div>
 
               <div class="col-6 col-md-3" style={{ marginTop: "5%" }}>
-                <b style={{ color: "#01302b", fontSize: "20px" }}>
+              <b style={{ color: "#01302b", fontSize: "20px" }}>
                   Our Address
-                </b>{" "}
+                </b>
                 <br /> <br />
-                
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d115526.63642638859!2d55.261694117062525!3d25.196227724460922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sOffice%204F-067%20AMNA%20NASSER%20Building%20Al%20Mararr%2C%20Deira%20P.O.%20Box%2019023%20Dubai%2C%20United%20Arab%20Emirates!5e0!3m2!1sen!2sbd!4v1711538076611!5m2!1sen!2sbd"width="100%"
-                  height="70%"
-                  style={{ border: "0" }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                Office 4F-067
+                <br />
+                AMNA NASSER Building
+                <br />
+                Al Mararr, Deira
+                <br />
+                P.O. Box 19023
+                <br />
+                <b> Dubai, United Arab Emirates</b>
               </div>
             </div>
           </div>

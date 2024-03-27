@@ -2931,7 +2931,7 @@ function Home(props) {
                     {" "}
                     Cutoutwiz
                   </a> */}
-                  <br />
+               
                   <a
                     href="https://www.bigcommerce.com/apps/cutoutwiz"
                     target="_blank"
