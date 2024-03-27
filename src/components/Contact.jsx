@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import emailjs from "emailjs-com";
 // import { Link } from 'react-router-dom';
 import { Helmet } from "react-helmet";
@@ -8,6 +8,38 @@ const $ = window.$;
 // import Form from 'customisable-contact-form';
 // import {Heading, FirstName, LastName, Email, Message, SubmitButton} from 'customisable-contact-form'
 export default function Contact() {
+  
+  function randomDate(end) {
+    return new Number(end + Math.random());
+}
+var p = randomDate(new Number()) * 10000000000000000;
+function sendEmail(e) {
+    e.preventDefault();
+
+    emailjs.sendForm(
+      "service_1zfatsb",
+      "template_dajy6bz",
+        e.target,
+        "user_3TcS4pRKMgpo7fArsKmSf"
+    )
+        .then(
+            (result) => {
+                console.log(result.text);
+                window.location.href = "./thank-you/" + p;
+            },
+            (error) => {
+                console.log(error.text);
+            }
+        );
+    e.target.reset();
+}
+
+useEffect(() => {
+
+    document.getElementById("hello").innerHTML = p;
+
+}, [])
+
   return (
     <div className="containe">
       {/* <Router>
@@ -125,35 +157,3 @@ export default function Contact() {
   );
 }
 
-function randomDate(end) {
-  return new Number(end + Math.random());
-}
-var p = randomDate(new Number()) * 10000000000000000;
-function sendEmail(e) {
-  e.preventDefault();
-
-  emailjs
-    .sendForm(
-      "service_1zfatsb",
-      "template_dajy6bz",
-      e.target,
-      "8KzfnKI7zpiWXHnv8"
-    )
-    .then(
-      (result) => {
-        console.log(result.text);
-        window.location.href = "./thank-you/" + p;
-      },
-      (error) => {
-        console.log(error.text);
-      }
-    );
-  e.target.reset();
-}
-
-function whatis() {
-  // document.getElementById("hello").innerHTML = p;
-}
-$(document).ready(function () {
-  whatis();
-});
