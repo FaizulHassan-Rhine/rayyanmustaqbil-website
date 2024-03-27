@@ -9,9 +9,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-      <Router >
+      {/* <Router >
          <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title>Tips for Reducing Bounce Rate & Increasing Conversion </title>
                 <meta name="" keywords= "" content="" 

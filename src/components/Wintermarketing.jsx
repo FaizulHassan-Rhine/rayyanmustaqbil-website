@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-       <Router >
+       {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title>7 Creative Winter Marketing Ideas for E-commerce Businesses - CutOutWiz</title>
                 <meta name="description" keywords= "Sales Tips,Digital Marketing" content="Embrace winter marketing ideas for e-commerce businesses by holding contests, surveys, and posting lifestyle photos with offers of discounts and sales." 

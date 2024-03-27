@@ -142,7 +142,7 @@ function Navigation(props) {
               </Link>
             </li>
 
-            <li class="nav-item">
+            {/* <li class="nav-item">
               <a
                 class="nav-link"
                 href="https://app.cutoutwiz.com/"
@@ -150,7 +150,7 @@ function Navigation(props) {
               >
                 <button id="button9">SIGN UP</button>
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </Container>

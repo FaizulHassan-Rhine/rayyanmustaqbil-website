@@ -71,7 +71,7 @@ function Ourintegration() {
         </div>
       </div>
       <div class="container" style={{ marginTop: "12%" }}>
-        <div class="row">
+        {/* <div class="row">
           <div class="col-md-6">
             <div class="container reveal fade-bottom">
               <p
@@ -106,7 +106,7 @@ function Ourintegration() {
               width="100%"
             />
           </div>
-        </div>
+        </div> */}
 
         <div class="row" style={{ marginTop: "8%" }}>
           <div class="col-md-6">
@@ -438,15 +438,7 @@ function Ourintegration() {
                     AmazonSPN{" "}
                   </a>
                   <br />
-                  <a
-                    href="https://app.cutoutwiz.com"
-                    target="_blank"
-                    style={{ textDecoration: "none", color: "#01302b" }}
-                  >
-                    {" "}
-                    Cutoutwiz
-                  </a>
-                  <br />
+               
                   <a
                     href="https://www.bigcommerce.com/apps/cutoutwiz"
                     target="_blank"
@@ -515,14 +507,11 @@ function Ourintegration() {
                   Our Address
                 </b>{" "}
                 <br /> <br />
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10329.283883735325!2d90.39304891556642!3d23.749043274767246!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc1fb12dbea63beca!2sCutOutWiz!5e0!3m2!1sbn!2sbd!4v1639129804206!5m2!1sbn!2sbd"
-                  width="70%"
-                  height="50%"
-                  style={{ border: "0" }}
-                  allowfullscreen=""
-                  loading="lazy"
-                ></iframe>
+                
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d115526.63642638859!2d55.261694117062525!3d25.196227724460922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sOffice%204F-067%20AMNA%20NASSER%20Building%20Al%20Mararr%2C%20Deira%20P.O.%20Box%2019023%20Dubai%2C%20United%20Arab%20Emirates!5e0!3m2!1sen!2sbd!4v1711538076611!5m2!1sen!2sbd"width="100%"
+                  height="70%"
+                  style={{ border: "0" }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </div>
@@ -540,7 +529,7 @@ function Ourintegration() {
               target="_blank"
               style={{ textDecoration: "none", color: "white" }}
             >
-              CutOutWiz
+              Rayyan Mustaqbil
             </Link>
           </p>
         </div>

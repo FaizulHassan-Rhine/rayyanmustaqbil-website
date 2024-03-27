@@ -9,9 +9,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                                      <Router >
+                                      {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title>Product Reselling Photography: Why and how to do it | cutoutwiz</title>
                 <meta name="description" keywords= "Product reselling photography" content="In order to perfectly photograph your old staff for reselling, you need to clean the products, accept the vintage look and maintain consistency." 

@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                     <Router >
+                     {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
 
             {/* META TAG AND META TITTLE */}
 
@@ -449,7 +449,7 @@ While photographing delicious looking food is one of the most fun things you’l
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayan Mustaqbil</p>
         </div>
     );
 

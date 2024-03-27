@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-    <Router >
+    {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title>Top Shopify Marketing Strategy for Sellers - CutOutWiz</title>
                 <meta name="description" keywords= "Shopify Sellers,Digital Marketing" content="Shopify marketing strategy includes getting best product photography, photo editing, ensure competitive pricing and SEO friendly website." 

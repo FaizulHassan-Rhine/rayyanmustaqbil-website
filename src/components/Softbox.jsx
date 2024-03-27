@@ -10,9 +10,9 @@ function Softbox(props) {
 
     return(
         <div className="postphoto">
-    <Router>
+    {/* <Router>
       <Navigation />
-    </Router>
+    </Router> */}
              <Helmet>
                 <title>How to make a Softbox for Product Photography | cutoutwiz</title>
                 <meta name="description" keywords= "Softbox" content="To create a softbox for product photoshoot, you need acquire the materials, measure and cut them, add it all up and place the light to diffuse it properly." 
