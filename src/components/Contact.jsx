@@ -134,8 +134,8 @@ function sendEmail(e) {
 
   emailjs
     .sendForm(
-      "service_bb7k48w",
-      "template_3wy2y2c",
+      "service_1zfatsb",
+      "template_dajy6bz",
       e.target,
       "8KzfnKI7zpiWXHnv8"
     )
@@ -152,7 +152,7 @@ function sendEmail(e) {
 }
 
 function whatis() {
-  // document.getElementById("hello").innerHTML = p;
+  document.getElementById("hello").innerHTML = p;
 }
 $(document).ready(function () {
   whatis();

@@ -129,7 +129,7 @@ function Home(props) {
   const settings = {
     dots: true,
     infinite: true,
-    slidesToShow: 4,
+    slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
     speed: 1000,
@@ -150,42 +150,40 @@ function Home(props) {
 
   window.addEventListener("scroll", () => {
     let content = document.querySelector(".fade-in-text");
-    if(content){
-    let contentPosition = content.getBoundingClientRect().top;
-    let screenPosition = window.innerHeight;
+    if (content) {
+      let contentPosition = content.getBoundingClientRect().top;
+      let screenPosition = window.innerHeight;
 
-    if (contentPosition < screenPosition) {
-      content.classList.add("active");
-    } else {
-      content.classList.remove("active");
+      if (contentPosition < screenPosition) {
+        content.classList.add("active");
+      } else {
+        content.classList.remove("active");
+      }
     }
-  }
   });
 
   window.addEventListener("scroll", () => {
     let content = document.querySelector(".fade-in-text40k");
-    if(content){
+    if (content) {
       let contentPosition = content.getBoundingClientRect().top;
       let screenPosition = window.innerHeight;
-  
+
       if (contentPosition < screenPosition) {
         content.classList.add("active");
       } else {
         content.classList.remove("active");
       }
     }
-
   });
-
 
   window.addEventListener("scroll", () => {
     let content = document.querySelector(".fade-in-text92k");
-    
+
     // Check if content exists before accessing its properties
     if (content) {
       let contentPosition = content.getBoundingClientRect().top;
       let screenPosition = window.innerHeight;
-  
+
       if (contentPosition < screenPosition) {
         content.classList.add("active");
       } else {
@@ -193,20 +191,19 @@ function Home(props) {
       }
     }
   });
-  
+
   window.addEventListener("scroll", () => {
     let content = document.querySelector(".fade-in-text54k");
-    if(content){
+    if (content) {
       let contentPosition = content.getBoundingClientRect().top;
       let screenPosition = window.innerHeight;
-  
+
       if (contentPosition < screenPosition) {
         content.classList.add("active");
       } else {
         content.classList.remove("active");
       }
     }
-
   });
 
   return (
@@ -516,11 +513,9 @@ function Home(props) {
             2014. Starting with a 3 member team and a one-room office, Rayyan
             Mustaqbil has now grown into a family of more than 500 individuals
             who are working with 25 studios globally and processing around 25000
-            photos daily. With a strong hold in the Dubai market, we also have
-            our operations based in Dhaka, Bangladesh as The KOW Company
-            Limited.
+            photos daily.
           </p>
-          <div class="row">
+          {/* <div class="row">
             <div class="span4 collapse-group">
               <p
                 class="collapse"
@@ -566,7 +561,7 @@ function Home(props) {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <p
             id="sucRcd"
@@ -574,7 +569,7 @@ function Home(props) {
               textAlign: "center",
               fontSize: "38px",
               fontFamily: "Branch",
-              marginTop: "7%",
+              marginTop: "14%",
               fontWeight: "700",
             }}
           >
@@ -1452,7 +1447,7 @@ function Home(props) {
               </a>
             </div>
 
-            <div class="col-md" id="logopop">
+            {/* <div class="col-md" id="logopop">
               <a href="https://app.cutoutwiz.com/" target="_blank">
                 <img
                   id="logo-big"
@@ -1463,7 +1458,7 @@ function Home(props) {
                   alt="Cutoutwiz logo"
                 />
               </a>
-            </div>
+            </div> */}
 
             <div class="col-md" id="logopop">
               <a
@@ -1617,7 +1612,7 @@ function Home(props) {
                 <br />
               </div>
 
-              <div
+              {/* <div
                 class="card"
                 id="cardBack"
                 style={{ borderRadius: "10px", border: "black" }}
@@ -1733,7 +1728,7 @@ function Home(props) {
                 />
                 <br />
                 <br />
-              </div>
+              </div> */}
 
               <div
                 class="card"
@@ -2138,7 +2133,7 @@ function Home(props) {
             </p>
           </div>
 
-          <div class="container">
+          {/* <div class="container">
             <div class="row">
               <div class="col-md-3"></div>
               <div class="col-md-6">
@@ -2155,7 +2150,7 @@ function Home(props) {
               </div>
               <div class="col-md-3"></div>
             </div>
-          </div>
+          </div> */}
 
           <div
             class="row"
