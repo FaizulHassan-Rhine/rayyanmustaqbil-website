@@ -346,21 +346,22 @@ function Ourintegration() {
                   strong teamwork, persistency and company culture.
                 </p>
                 <a
-                  href="https://www.facebook.com/cutoutwiz"
+                  href="https://www.facebook.com/rayyanmustaqbil"
                   target="_blank"
                   class="fa fa-facebook"
                 ></a>
                 <a
-                  href="https://twitter.com/cut_wiz?s=09"
+                 href="https://twitter.com/rayyanmustaqbil"
                   target="_blank"
                   class="fa fa-twitter"
                 ></a>
                 <a
-                  href="https://www.linkedin.com/company/cutoutwiz-ltd"
+                  href="https://www.linkedin.com/company/rayyan-mustaqbil"
+                
                   target="_blank"
                   class="fa fa-linkedin"
                 ></a>
-                <a
+                {/* <a
                   href="https://www.youtube.com/channel/UClIkCcEBksZigP56p593fDQ"
                   target="_blank"
                   class="fa fa-youtube"
@@ -369,7 +370,7 @@ function Ourintegration() {
                   href="https://www.instagram.com/accounts/login/"
                   target="_blank"
                   class="fa fa-instagram"
-                ></a>
+                ></a> */}
               </div>
 
               <div class="col-6 col-md-2" style={{ marginTop: "5%" }}>

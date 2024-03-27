@@ -1448,7 +1448,7 @@ function Home(props) {
             </div>
 
             {/* <div class="col-md" id="logopop">
-              <a href="https://app.rayyanmustaqbil.xyz/" target="_blank">
+              <a href="https://app.cutoutwiz.com/" target="_blank">
                 <img
                   id="logo-big"
                   src="assets/images/cutoutwiz-01.png"
@@ -1904,7 +1904,7 @@ function Home(props) {
                       <p style={{ marginTop: "-4%" }}>1 MONTH FREE STORAGE</p>
                       <p style={{ marginTop: "-4%" }}>24/7 CUSTOMER SUPPORT</p>
 
-                      <a href="https://app.rayyanmustaqbil.xyz/" target="_blank">
+                      <a href="https://app.cutoutwiz.com/" target="_blank">
                         {" "}
                         <button type="button" id="button-order">
                           Order Now
@@ -1980,7 +1980,7 @@ function Home(props) {
                       <p style={{ marginTop: "-4%" }}>2 MONTH FREE STORAGE</p>
                       <p style={{ marginTop: "-4%" }}>24/7 CUSTOMER SUPPORT</p>
 
-                      <a href="https://app.rayyanmustaqbil.xyz/" target="_blank">
+                      <a href="https://app.cutoutwiz.com/" target="_blank">
                         {" "}
                         <button type="button" id="button-order">
                           Order Now
@@ -2924,14 +2924,14 @@ function Home(props) {
                   </a>
                   <br />
                   {/* <a
-                    href="https://app.rayyanmustaqbil.xyz"
+                    href="https://app.cutoutwiz.com"
                     target="_blank"
                     style={{ textDecoration: "none", color: "#01302b" }}
                   >
                     {" "}
                     Cutoutwiz
                   </a> */}
-                  {/* <br /> */}
+                  <br />
                   <a
                     href="https://www.bigcommerce.com/apps/cutoutwiz"
                     target="_blank"
@@ -2985,7 +2985,7 @@ function Home(props) {
                   </Link>{" "}
                   <br />
                   <a
-                    href="https://app.rayyanmustaqbil.xyz/"
+                    href="https://app.cutoutwiz.com/"
                     target="_blank"
                     style={{ textDecoration: "none", color: "#01302b" }}
                   >
@@ -3021,10 +3021,11 @@ function Home(props) {
                   class="fa fa-linkedin"
                 ></a>
                 <a
-                  href="https://www.instagram.com/rayyanmustaqbil"
+                  href="https://twitter.com/rayyanmustaqbil"
                   target="_blank"
-                  class="fa fa-instagram"
+                  class="fa fa-twitter"
                 ></a>
+              
               </div>
             </div>
           </div>
