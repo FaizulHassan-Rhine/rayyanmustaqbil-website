@@ -94,7 +94,7 @@ function Ourintegration() {
                 market. While we take care of your images you can increase your
                 sales by focusing on other pressing business matters.
               </p>
-              <a target="_blank" href="https://cutoutwiz.com">
+              <a target="_blank" href="https://rayyanmustaqbil.xyz">
                 <button id="viewbtn">View Project</button>
               </a>
             </div>
@@ -346,21 +346,22 @@ function Ourintegration() {
                   strong teamwork, persistency and company culture.
                 </p>
                 <a
-                  href="https://www.facebook.com/cutoutwiz"
+                  href="https://www.facebook.com/rayyanmustaqbil"
                   target="_blank"
                   class="fa fa-facebook"
                 ></a>
                 <a
-                  href="https://twitter.com/cut_wiz?s=09"
+                 href="https://twitter.com/rayyanmustaqbil"
                   target="_blank"
                   class="fa fa-twitter"
                 ></a>
                 <a
-                  href="https://www.linkedin.com/company/cutoutwiz-ltd"
+                  href="https://www.linkedin.com/company/rayyan-mustaqbil"
+                
                   target="_blank"
                   class="fa fa-linkedin"
                 ></a>
-                <a
+                {/* <a
                   href="https://www.youtube.com/channel/UClIkCcEBksZigP56p593fDQ"
                   target="_blank"
                   class="fa fa-youtube"
@@ -369,7 +370,7 @@ function Ourintegration() {
                   href="https://www.instagram.com/accounts/login/"
                   target="_blank"
                   class="fa fa-instagram"
-                ></a>
+                ></a> */}
               </div>
 
               <div class="col-6 col-md-2" style={{ marginTop: "5%" }}>
@@ -492,7 +493,7 @@ function Ourintegration() {
                   </Link>{" "}
                   <br />
                   <a
-                    href="https://app.cutoutwiz.com/"
+                    href="https://app.rayyanmustaqbil.xyz/"
                     target="_blank"
                     style={{ textDecoration: "none", color: "#01302b" }}
                   >

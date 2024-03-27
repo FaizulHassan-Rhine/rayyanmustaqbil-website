@@ -2931,7 +2931,7 @@ function Home(props) {
                     {" "}
                     Cutoutwiz
                   </a> */}
-                  {/* <br /> */}
+                  <br />
                   <a
                     href="https://www.bigcommerce.com/apps/cutoutwiz"
                     target="_blank"
@@ -3021,10 +3021,11 @@ function Home(props) {
                   class="fa fa-linkedin"
                 ></a>
                 <a
-                  href="https://www.instagram.com/rayyanmustaqbil"
+                  href="https://twitter.com/rayyanmustaqbil"
                   target="_blank"
-                  class="fa fa-instagram"
+                  class="fa fa-twitter"
                 ></a>
+              
               </div>
             </div>
           </div>
