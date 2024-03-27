@@ -22,11 +22,11 @@ function AllBlogs(props) {
         <Navigation />
       </Router> */}
       <Helmet>
-        <title>CutOutWiz : Image and Video Post Production</title>
+        <title>rayyanmustaqbil : Image and Video Post Production</title>
         <meta
           name="description"
           keywords="Product photo edinting company"
-          content="CutOutWiz is one of the leading image and video editing company for businesses all over the world. As the world moves towards a virtual business base, product photo editing has been a very important part for any E-commerce business "
+          content="rayyanmustaqbil is one of the leading image and video editing company for businesses all over the world. As the world moves towards a virtual business base, product photo editing has been a very important part for any E-commerce business "
         />
       </Helmet>
       <div style={{ backgroundColor: "#f3f5f7" }}>

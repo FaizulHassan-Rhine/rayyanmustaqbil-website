@@ -57,7 +57,7 @@ const TopBanner = () => {
                 <div class="col-6 col-md-4">
                   <a
                     class=""
-                    href="https://app.cutoutwiz.com/"
+                    href="https://app.rayyanmustaqbil.xyz/"
                     target="_blank"
                     rel="noreferrer"
                   >

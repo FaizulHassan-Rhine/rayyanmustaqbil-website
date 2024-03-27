@@ -145,7 +145,7 @@ function Navigation(props) {
             {/* <li class="nav-item">
               <a
                 class="nav-link"
-                href="https://app.cutoutwiz.com/"
+                href="https://app.rayyanmustaqbil.xyz/"
                 target="_blank"
               >
                 <button id="button9">SIGN UP</button>
