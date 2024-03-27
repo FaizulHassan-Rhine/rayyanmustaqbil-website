@@ -9,9 +9,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                          <Router >
+                          {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title>Minimize Your Bounce Rate CutOutWiz - CutOutWiz</title>
                 <meta name="description" keywords= "Bounce rate,Digital Marketing" content="Bounce rate means that users are not engaging with your website. Read more to know about the impacts and reasons of bounce rate." 

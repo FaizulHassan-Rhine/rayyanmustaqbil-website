@@ -9,9 +9,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                     <Router >
+                     {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
             <Helmet>
                 <title>A Beginner’s How-to Guide for Clothing Photography| cutoutwiz</title>
                 <meta name="description" keywords= "Clothing Photography" content="To take the perfect clothing photography for your e-store, you need to get realistic photos, plan the setup, get brighter lights and ensure multiple angles." 
@@ -237,7 +237,7 @@ receive something below their expectation, they feel betrayed. As a result, the 
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayan Mustaqbil</p>
         </div>
     );
 

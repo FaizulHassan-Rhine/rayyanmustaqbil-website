@@ -9,9 +9,9 @@ import { Navigation } from "./";
 function Softbox(props) {
   return (
     <div className="postphoto">
-      <Router>
+      {/* <Router>
         <Navigation />
-      </Router>
+      </Router> */}
       <Helmet>
         <title>
           Car Photography: A Beginner’s How-To Guide And Tips - Rayan Mustaqbil

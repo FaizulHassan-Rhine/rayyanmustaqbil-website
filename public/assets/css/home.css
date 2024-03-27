@@ -488,7 +488,7 @@ input:checked {
   }
   #place-order {
     /* margin-top: -80% !important; */
-    height: 132vh !important;
+    height: 100vh !important;
   }
   #hidecol3 {
     display: none !important;
@@ -1251,7 +1251,7 @@ width: 100vw;
   }
 
   #blog-section-big {
-    height: 134vh !important;
+    height: 104vh !important;
   }
 
   #hideOnBlogBigScreen {
@@ -1345,7 +1345,7 @@ width: 100vw;
   }
 
   #place-order {
-    height: 85vh !important;
+    height: 65vh !important;
   }
 
   #abtHd {

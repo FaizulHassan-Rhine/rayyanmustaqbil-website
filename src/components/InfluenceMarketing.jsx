@@ -8,9 +8,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                     <Router >
+                     {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
             <div id="button_back"style={{marginTop:"9%", backgroundColor: "#211f40",height: "100%",width: "100%"}}> 
             <p id="headpost"style={{color: "white",textAlign: "center",fontSize: "50px",top: "50%",fontWeight: "200"}}>Influencer Marketing: How To Find The Right One</p>
             </div>

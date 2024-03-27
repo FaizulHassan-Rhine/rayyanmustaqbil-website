@@ -9,9 +9,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                          <Router >
+                          {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
             <Helmet>
                 <title>5 Interesting Product Photography Facts |cutoutwiz</title>
                 <meta name="description" keywords= "Product Photography Tips" content="In product photography, it’s important to always shoot in raw, adjust exposure triangle effectively, follow the rules of thirds and adjust your on-camera flash." 

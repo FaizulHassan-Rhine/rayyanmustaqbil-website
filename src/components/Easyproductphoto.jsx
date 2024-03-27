@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                     <Router >
+                     {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
             <Helmet>
                 <title>Easy Product Photography Solutions for Small Business - CutOutWiz</title>
                 <meta name="description" keywords= "Product Photography Tips" content="Some easy photography solutions for small business include- getting expert opinion, use home studio, flat lay photography, use of softbox etc." 
@@ -285,7 +285,7 @@ While owning a small business has its struggles, it provides immense rewards as 
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayan Mustaqbil</p>
         </div>
     );
 

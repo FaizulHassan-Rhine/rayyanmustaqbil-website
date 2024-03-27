@@ -5,9 +5,9 @@ import { Navigation } from "./";
 function Thankyou(props) {
   return (
     <div className="postphoto" style={{ backgroundColor: "#c5da9c" }}>
-      <Router>
+      {/* <Router>
         <Navigation />
-      </Router>
+      </Router> */}
       <Helmet>
         <style>{"body { background-color: #c5da9c; }"}</style>
         <meta name="robots" content="noindex"></meta>

@@ -21,7 +21,7 @@ function Blog() {
       <Navigation />
       </Router> */}
             <Helmet>
-                <title>Image & Video Editing Company | Blogs | CutOutWiz</title>
+                <title>Image & Video Editing Company | Blogs | Rayyan Mustaqbil</title>
                 <meta name="description" keywords= "product photo editing" content="By implementing product photo editing, you'll be able to be removing backgrounds, edit a photo and ensure professional retouching. " 
                 />
             </Helmet>

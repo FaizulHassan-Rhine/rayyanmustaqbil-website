@@ -9,9 +9,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                          <Router >
+                          {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title></title>
                 <meta name="" keywords= "" content="" 
@@ -255,7 +255,7 @@ The journey from being an online business to being a brand that’s knowable and
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayan Mustaqbil</p>
         </div>
     );
 

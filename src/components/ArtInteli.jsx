@@ -9,9 +9,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                          <Router >
+                          {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title></title>
                 <meta name="" keywords= "" content="" 

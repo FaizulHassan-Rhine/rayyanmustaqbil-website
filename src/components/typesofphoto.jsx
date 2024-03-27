@@ -10,9 +10,9 @@ import { Navigation} from "./";
 
     return(
         <div className="postphoto">
-                          <Router >
+                          {/* <Router >
       <Navigation />
-      </Router>
+      </Router> */}
              <Helmet>
                 <title>Types of Photography: Which one drives your inner passion most? - CutOutWiz</title>
                 <meta name="description" keywords= "Car Photography,Food Photography,Cloth Photography,Real Estate Photography,Types of Photography,Promoted Content" content="Photographs are our way of capturing the world as we see it. It’s a medium of expressing our inner thoughts and holding onto memories close to our heart." 

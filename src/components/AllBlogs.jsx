@@ -18,9 +18,9 @@ import { Navigation } from "./";
 function AllBlogs(props) {
   return (
     <div className="postphoto">
-      <Router>
+      {/* <Router>
         <Navigation />
-      </Router>
+      </Router> */}
       <Helmet>
         <title>CutOutWiz : Image and Video Post Production</title>
         <meta
@@ -864,7 +864,7 @@ function AllBlogs(props) {
             target="_blank"
             style={{ textDecoration: "none", color: "white" }}
           >
-            Rayan Mustaqbil
+            Rayyan Mustaqbil
           </Link>
         </p>
       </div>
