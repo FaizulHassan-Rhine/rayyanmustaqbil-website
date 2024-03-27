@@ -94,7 +94,7 @@ function Ourintegration() {
                 market. While we take care of your images you can increase your
                 sales by focusing on other pressing business matters.
               </p>
-              <a target="_blank" href="https://cutoutwiz.com">
+              <a target="_blank" href="https://rayyanmustaqbil.xyz">
                 <button id="viewbtn">View Project</button>
               </a>
             </div>
@@ -492,7 +492,7 @@ function Ourintegration() {
                   </Link>{" "}
                   <br />
                   <a
-                    href="https://app.cutoutwiz.com/"
+                    href="https://app.rayyanmustaqbil.xyz/"
                     target="_blank"
                     style={{ textDecoration: "none", color: "#01302b" }}
                   >
