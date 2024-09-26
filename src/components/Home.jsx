@@ -526,7 +526,7 @@ function Home(props) {
                 }}
               >
                 The company has two ventures under its wing – CutOutWiz, which
-                is an image and video editing company and The KOW Studios, which
+                is an image and video editing company and The Rayyan Mustaqbil, which
                 is a product photo studio.Rayyan Mustaqbil boasts of having
                 clients not only from all corners of the world, but also from a
                 wide variety of verticals – retail, fashion, e-commerce,

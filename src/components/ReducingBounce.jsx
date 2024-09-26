@@ -360,7 +360,7 @@ In the above discussion, we have shown you several ways to reduce your bounce 
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayyan Mustaqbil</p>
         </div>
     );
 

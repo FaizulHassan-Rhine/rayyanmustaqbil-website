@@ -262,7 +262,7 @@ in a day or a week. You’re bound to get blur, shaky and overexposed photos in 
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayyan Mustaqbil</p>
         </div>
     );
 
