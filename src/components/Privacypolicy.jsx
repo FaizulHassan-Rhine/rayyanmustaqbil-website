@@ -30,7 +30,7 @@ function Privacypolicy(props) {
             <p style={{ marginTop: "2%" }}>
               We know that you care how information about you is used and
               shared, and we appreciate your trust. This Privacy Policy explains
-              how The KOW Company collect, use and share information about you
+              how Rayyan Mustaqbil collect, use and share information about you
               when you use our websites and online services (“Services”) or
               otherwise interact with us. Please read this Privacy Policy
               carefully and contact us if you have any questions.

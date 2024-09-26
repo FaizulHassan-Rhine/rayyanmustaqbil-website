@@ -162,9 +162,9 @@ function Termsconditions(props) {
           <br />
           <br />
           <p>
-            The KOW Company guarantees that it has not infringed or does not
+            Rayyan Mustaqbil guarantees that it has not infringed or does not
             infringe or shall not infringe the IPR of any third party so far as
-            related with the service(s) to be provided. The KOW Company shall
+            related with the service(s) to be provided. Rayyan Mustaqbil shall
             indemnify its Clients against any costs or consequences as a result
             of such infringements.{" "}
           </p>
@@ -203,7 +203,7 @@ function Termsconditions(props) {
           <br />
           <br />
           <p>
-            The KOW Company cannot use a third party without taking the consent
+            Rayyan Mustaqbil cannot use a third party without taking the consent
             of the client.{" "}
           </p>
 
@@ -221,7 +221,7 @@ function Termsconditions(props) {
           <br />
           <br />
           <p>
-            The KOW Company may need to disclose certain “Confidential
+            Rayyan Mustaqbil may need to disclose certain “Confidential
             Information” to its sister concerns to some extent as required.
             Confidential Information shall mean any information disclosed by a
             Party in connection with this Contract to another party (whether

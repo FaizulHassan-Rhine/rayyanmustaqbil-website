@@ -23,14 +23,14 @@ function Footer() {
 
         <p style={{color:"#b7b9bb",marginTop:"8%"}}>
         Home <br/>
-        Features<br/>
+        {/* Features<br/> */}
         Services<br/>
         Pricing<br/>
         Blogs
         </p>
     </div>
 
-    <div class="col-6 col-md-2"style={{marginTop:"5%"}}>
+    {/* <div class="col-6 col-md-2"style={{marginTop:"5%"}}>
     <b style={{color:"white",fontSize:"20px"}}>Features</b>
         <p style={{color:"white",marginTop:"8%"}}>
         Shoppify App <br/>
@@ -38,7 +38,7 @@ function Footer() {
         BigCommerce App<br/>
         Shotflow
         </p>
-    </div>
+    </div> */}
 
     <div class="col-6 col-md-2"style={{marginTop:"5%"}}>
     <b style={{color:"white",fontSize:"20px"}}>Useful Links</b>

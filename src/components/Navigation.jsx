@@ -99,11 +99,11 @@ function Navigation(props) {
               </ul>
             </li>
 
-            <li class="nav-item">
+            {/* <li class="nav-item">
               <a class="nav-link" href="/#apps">
                 APPS
               </a>
-            </li>
+            </li> */}
 
             <li class="nav-item">
               <a class="nav-link" href="/#prices">

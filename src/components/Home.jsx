@@ -1388,12 +1388,11 @@ function Home(props) {
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             width: "100vw",
-            height: "122vh",
+            height: "80vh",
           }}
         >
           <div>
-            <p style={{ color: "#c5da9c" }}>sadasd</p>
-            <h1
+            {/* <h1
               style={{
                 textAlign: "center",
                 fontWeight: "700",
@@ -1402,9 +1401,9 @@ function Home(props) {
               }}
             >
               Apps & Integrations
-            </h1>
-            <br />
-            <p
+            </h1> */}
+
+            {/* <p
               style={{
                 textAlign: "center",
                 marginTop: "-1%",
@@ -1412,12 +1411,10 @@ function Home(props) {
               }}
             >
               Our apps are featured in major E-commerce platforms
-            </p>
-            <br />
-            <br />
+            </p> */}
           </div>
 
-          <div class="row">
+          {/* <div class="row">
             <div class="col-md" id="logopop">
               <a href="https://apps.shopify.com/cutoutwiz" target="_blank">
                 <img
@@ -1447,7 +1444,7 @@ function Home(props) {
               </a>
             </div>
 
-            {/* <div class="col-md" id="logopop">
+            <div class="col-md" id="logopop">
               <a href="https://app.cutoutwiz.com/" target="_blank">
                 <img
                   id="logo-big"
@@ -1458,7 +1455,7 @@ function Home(props) {
                   alt="Cutoutwiz logo"
                 />
               </a>
-            </div> */}
+            </div>
 
             <div class="col-md" id="logopop">
               <a
@@ -1488,7 +1485,7 @@ function Home(props) {
                 />
               </a>
             </div>
-          </div>
+          </div> */}
 
           <div class="container" id="overflow" style={{ marginTop: "9%" }}>
             <Slider {...settings}>
@@ -1904,12 +1901,12 @@ function Home(props) {
                       <p style={{ marginTop: "-4%" }}>1 MONTH FREE STORAGE</p>
                       <p style={{ marginTop: "-4%" }}>24/7 CUSTOMER SUPPORT</p>
 
-                      <a href="https://app.cutoutwiz.com/" target="_blank">
+                      <Link to="/contact-us" target="_blank">
                         {" "}
                         <button type="button" id="button-order">
-                          Order Now
+                          Contact Us
                         </button>
-                      </a>
+                      </Link>
                     </div>
                     <br />
                   </div>
@@ -1980,12 +1977,12 @@ function Home(props) {
                       <p style={{ marginTop: "-4%" }}>2 MONTH FREE STORAGE</p>
                       <p style={{ marginTop: "-4%" }}>24/7 CUSTOMER SUPPORT</p>
 
-                      <a href="https://app.cutoutwiz.com/" target="_blank">
+                      <Link to="/contact-us" target="_blank">
                         {" "}
                         <button type="button" id="button-order">
-                          Order Now
+                          Contact Us
                         </button>
-                      </a>
+                      </Link>
                     </div>
                     <br />
                   </div>
@@ -2857,8 +2854,8 @@ function Home(props) {
                 </p>
               </div>
 
-              <div class="col-6 col-md-2" style={{ marginTop: "5%" }}>
-                <b style={{ color: "#01302b", fontSize: "20px" }}>Menu</b>
+              <div class="col-6 col-md-3" style={{ marginTop: "5%", display: "flex" , flexDirection: "column" ,justifyItems: "center", alignItems: "center" }}>
+                <b style={{ color: "#01302b", fontSize: "20px", marginLeft: "-15px" }}>Menu</b>
 
                 <p style={{ color: "#b7b9bb", marginTop: "8%" }}>
                   <a
@@ -2903,7 +2900,7 @@ function Home(props) {
                 </p>
               </div>
 
-              <div class="col-6 col-md-2" style={{ marginTop: "5%" }}>
+              {/* <div class="col-6 col-md-2" style={{ marginTop: "5%" }}>
                 <b style={{ color: "#01302b", fontSize: "20px" }}>Features</b>
                 <p style={{ color: "#01302b", marginTop: "8%" }}>
                   <a
@@ -2931,8 +2928,7 @@ function Home(props) {
                     {" "}
                     Cutoutwiz
                   </a> */}
-               
-                  <a
+                  {/* <a
                     href="https://www.bigcommerce.com/apps/cutoutwiz"
                     target="_blank"
                     style={{ textDecoration: "none", color: "#01302b" }}
@@ -2950,9 +2946,9 @@ function Home(props) {
                     Shotflow
                   </a>
                 </p>
-              </div>
+              </div> */} 
 
-              <div class="col-6 col-md-2" style={{ marginTop: "5%" }}>
+              <div class="col-6 col-md-3" style={{ marginTop: "5%" }}>
                 <b style={{ color: "#01302b", fontSize: "20px" }}>
                   Useful Links
                 </b>
@@ -3009,7 +3005,7 @@ function Home(props) {
                 P.O. Box 19023
                 <br />
                 <b> Dubai, United Arab Emirates</b>
-                <br/>
+                <br />
                 <a
                   href="https://www.facebook.com/rayyanmustaqbil"
                   target="_blank"
@@ -3025,7 +3021,6 @@ function Home(props) {
                   target="_blank"
                   class="fa fa-twitter"
                 ></a>
-              
               </div>
             </div>
           </div>
