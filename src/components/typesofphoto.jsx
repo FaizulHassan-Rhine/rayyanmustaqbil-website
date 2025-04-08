@@ -326,7 +326,7 @@ Capturing pictures of newborn requires both you be a skilled photographer and a 
      </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayyan Mustaqbil</p>
         </div>
     );
 

@@ -326,7 +326,7 @@ Avoiding these common mistakes, while using tips from our<a href="https://www.ra
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayyan Mustaqbil</p>
         </div>
     );
 

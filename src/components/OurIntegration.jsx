@@ -49,7 +49,7 @@ function Ourintegration() {
       </Router> */}
       <Helmet>
         <title>
-          Image & Video Editing Company | Our Integration | CutOutWiz
+          Image & Video Editing Company | Our Integration | Rayyan Mustaqbil
         </title>
         <meta
           name="description"
@@ -126,13 +126,13 @@ function Ourintegration() {
                   color: "#c5da9c",
                 }}
               >
-                KOW Studios
+                Rayyan Mustaqbil Studios
               </p>
               <p style={{ textAlign: "justify", fontSize: "22px" }}>
                 With the vision to move forward and expand our business to tap
-                into unexplored markets, we launched “The Kow Studios” in 2019.
+                into unexplored markets, we launched “Rayyan Mustaqbil Studios” in 2019.
                 Although globally we’ve worked with 25 studios globally till
-                now, with Kow Studios, we are able to conduct photo and video
+                now, with Rayyan Mustaqbil Studios, we are able to conduct photo and video
                 shoots with professional brands on our own. Previously we were
                 only involved with content post production whereas now we are
                 taking over the content production sector as well. This way, we
@@ -253,7 +253,7 @@ function Ourintegration() {
                 here don’t take being an Amazon seller as a full-time job,they
                 require help from Amazon and different apps to save time and
                 energy that can be utilized elsewhere. This is where we come in.
-                Through our app, CutOutWiz, we try to take care of all their
+                Through our app, Rayyan Mustaqbil, we try to take care of all their
                 image and video editing worries at an affordable price. With
                 better quality pictures, they are able to generate more revenue
                 and take their business to the top.

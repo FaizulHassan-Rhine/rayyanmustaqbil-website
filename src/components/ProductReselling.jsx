@@ -212,7 +212,7 @@ Another way to go with old product is donating them to luxury item reseller’s 
             </div>
         </div>
         <br/><br/>
-        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By CutOutWiz</p>
+        <p style={{textAlign:"center",color:"white",padding:"8px",backgroundColor:"black"}}>Designed And Developed By Rayyan Mustaqbil</p>
         </div>
     );
 
