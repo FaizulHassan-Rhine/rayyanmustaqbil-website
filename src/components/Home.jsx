@@ -507,10 +507,7 @@ function Home(props) {
           >
             “Rayyan Mustaqbil” is an ambitious content post-production company
             that is growing on an accelerated rate due to its strong teamwork,
-            persistency and company culture.It’s CEO and Founder, Kowser Ahmed
-            Nirob realized the necessity of product photo editing in a
-            tech-hungry, fast-paced world and thus established the entity in
-            2014. Starting with a 3 member team and a one-room office, Rayyan
+            persistency and company culture. Starting with a 3 member team and a one-room office, Rayyan
             Mustaqbil has now grown into a family of more than 500 individuals
             who are working with 25 studios globally and processing around 25000
             photos daily.
